@@ -9,6 +9,8 @@ This is the main repository for all of the challanges.
 | 03  | [Parent child binding](https://github.com/jovana-marceta/angular-challanges/tree/master/parent-child-binding)                             | [Live Demo](#)               |
 | 03  | [Temperature unit converter](https://github.com/jovana-marceta/angular-challanges/tree/master/temperature-unit-converter)                             | [Live Demo](#)               |
 | 04  | [User lists](https://github.com/jovana-marceta/angular-challanges/tree/master/user-lists)                             | [Live Demo](#)               |
+| 05  | [Counter](https://github.com/jovana-marceta/angular-challanges/tree/master/counter)                             | [Live Demo](#)               |
+
 
 
 
