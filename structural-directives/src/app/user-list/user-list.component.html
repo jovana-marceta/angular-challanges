@@ -1,0 +1,12 @@
+<h1>Users list</h1>
+
+<button class="btn btn-primary" (click)="toggleOlderUsers();">Show me older than 30</button>
+
+<ul>
+    <ng-container *ngFor="let user of users">
+        <li *ngIf="!showOlderUsers || user.age >= 30">
+            <span>Name: {{user.name}}</span>
+            <span>Age: {{user.age}}</span> 
+        </li>
+    </ng-container>
+</ul>

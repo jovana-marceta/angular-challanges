@@ -1,0 +1,8 @@
+.main {
+    background-color: #00C9A7;
+    height: 100vh;
+}
+
+.main.active {
+    background-color: #845EC2;
+}
