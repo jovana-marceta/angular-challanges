@@ -1,2 +1,9 @@
-# angular-challanges
-Beinner angular challenge
+# Angular Challanges
+
+This is the main repository for all of the challanges.
+
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Code](#)                             | [Live Demo](#)               |
+
+
